@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: 'AI Resume Analyzer',
   description: 'Optimize your resume for ATS with AI-powered analysis and feedback',
   keywords: 'resume, ATS, analyzer, AI feedback, job application',
+  icons: {
+    icon: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
