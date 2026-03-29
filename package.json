@@ -1,0 +1,38 @@
+{
+  "name": "ai-resume-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:push": "prisma db push",
+    "db:generate": "prisma generate",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@prisma/client": "^5.22.0",
+    "html2pdf.js": "^0.10.3",
+    "jspdf": "^2.5.2",
+    "multer": "^2.1.1",
+    "next": "latest",
+    "next-auth": "^4.24.13",
+    "openai": "^6.33.0",
+    "pdf-parse-fixed": "^1.1.1",
+    "pdfjs-dist": "^5.5.207",
+    "prisma": "^5.22.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/multer": "^2.1.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "19.2.14",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.0",
+    "typescript": "6.0.2"
+  }
+}
