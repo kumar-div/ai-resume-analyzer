@@ -55,6 +55,14 @@ This tool:
 
 ---
 
+## 🚀 What makes this different
+
+- Offline LLM (Ollama)
+- Sementic Keyword Matching Logic
+- Custom Scoring System
+
+---
+
 ## ⚙️ Setup
 
 - git clone https://github.com/kumar-div/ai-resume-analyzer.git
@@ -65,26 +73,26 @@ This tool:
 
 ## 🤖 Run local AI (Ollama)
 
-ollama run phi
+- ollama run phi
 
 ---
 
 ## 🤖 Start app
 
-npm run dev
+- npm run dev
 
 ---
 
 ## 📸 Preview
 
 ### 🔍 Home Page
-![Home Page](./public/screenshots/Home_Page.png)
+![Home Page](public/Screenshots/Home_Page.png)
 
 ### 📊 Dashboard
-![Dashboard](./public/screenshots/Dashboard.png)
+![Dashboard](public/Screenshots/Dashboard.png)
 
 ### ✨ Resume Analysis
-![Analyzer](./public/screenshots/Resume_Analyzer.png)
+![Analyzer](public/Screenshots/Resume_Analyzer.png)
 
 ---
 
@@ -115,10 +123,10 @@ If you’re using this project:
 
 ## 👤 Author
 
-Divyansh
+- Divyansh
 
 ## ⭐
 
-If this project helped you, consider giving it a star.
+- If this project helped you, consider giving it a star.
 
 ---
